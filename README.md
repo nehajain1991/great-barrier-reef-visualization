@@ -16,3 +16,6 @@ The project is about coral bleaching data for 8 sites in the Great Barrier Reef(
             * Second, a leaflet map to represent the sites location on a map
 
    * Preview of the app:
+
+![alt text](https://github.com/nehajain1991/great-barrier-reef-visualization/blob/master/images/locations.png)
+![alt text](https://github.com/nehajain1991/great-barrier-reef-visualization/blob/master/images/plot.png)
