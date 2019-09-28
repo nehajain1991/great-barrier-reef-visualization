@@ -4,7 +4,7 @@ The project is about coral bleaching data for 8 sites in the Great Barrier Reef(
 
   * To access the code and run the application locally, follow below steps:
         * The working directory needs to have the following files :
-            * The 'bleaching-data.csv' file and
+            * The 'assignment-02-data-formated.csv' file and
             * R script (Task5.R)
         * Having these files will ensure a smooth working of visualization and the shiny app.
 
